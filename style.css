@@ -1,1 +1,10 @@
-
+body{ 
+  backgrund-color: lghtblue;
+  font-family:Arial, sans-serif;
+}
+h1{ 
+  color: red;
+}
+h2{
+  color:dablue;
+}
